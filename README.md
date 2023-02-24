@@ -12,12 +12,27 @@ There are many imperfections in the work, welcome to modify and improve and cont
 ----
 这是一些图片介绍
 Here are some pictures
-
+----
 本工程共需打两块板
+
 这是第一块板
+
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/60685266/221106636-12ef407b-2014-42f7-98a9-43d6e9fe1dd1.png">
+
 需按照如下线切开，
+
 ![image](https://user-images.githubusercontent.com/60685266/221107147-d0d8aeea-30df-43ff-bb2a-d2eb86afad83.png)
+
 分为(1)(2)(4)(6)号板
 
+这是第二块板
+
 <img width="353" alt="image" src="https://user-images.githubusercontent.com/60685266/221105162-65ca8930-33b9-4587-a355-ba7cb1399ec3.png">
+
+
+切开分为(3)(5)号板
+
+![image](https://user-images.githubusercontent.com/60685266/221107712-3dd783ab-12c0-4178-a216-0d160a9651aa.png)
+
+
+
