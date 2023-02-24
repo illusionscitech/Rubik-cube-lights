@@ -34,5 +34,7 @@ Here are some pictures
 
 ![image](https://user-images.githubusercontent.com/60685266/221107712-3dd783ab-12c0-4178-a216-0d160a9651aa.png)
 
+最终分为6块板去拼接成为立方体
+
 
 
