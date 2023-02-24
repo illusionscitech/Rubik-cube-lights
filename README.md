@@ -36,5 +36,23 @@ Here are some pictures
 
 最终分为6块板去拼接成为立方体
 
+![01a6e6a396362c49f60014dffbebf26](https://user-images.githubusercontent.com/60685266/221121413-f7fa9434-62b6-4136-afa5-6415b7592d8c.jpg)
 
+![f599c03322cdd0ab44cb88d54cc6669](https://user-images.githubusercontent.com/60685266/221121808-f5b4c284-4acd-4560-951b-8f78de88afe4.jpg)
+
+像小时候折纸一样，把对应焊点焊接上，形成立方体
+
+！！！切记不可以不切开板子焊接好后直接通电，有危险
+
+----
+
+外壳是拼多多上这种
+
+![image](https://user-images.githubusercontent.com/60685266/221123722-891d24a3-f2ea-474d-812a-3a1d9ca31c44.png)
+
+![9429a6edacf1d8c7c1af24cbdab06af](https://user-images.githubusercontent.com/60685266/221123776-d42d83c8-95d9-4d51-9578-18ade538dc4f.jpg)
+
+只需要在对应位置开孔就可以
+
+如果有其他问题，欢迎在b站评论区留言，谢谢
 
