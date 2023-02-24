@@ -45,7 +45,7 @@ Here are some pictures
 
 ![f599c03322cdd0ab44cb88d54cc6669](https://user-images.githubusercontent.com/60685266/221121808-f5b4c284-4acd-4560-951b-8f78de88afe4.jpg)
 
-像小时候折纸一样，把对应焊点焊接上，形成立方体
+像小时候折纸一样，把对应焊点焊接上，形成立方体（所有的1-6字符都是按照图片正向）
 
 ！！！切记不可以不切开板子焊接好后直接通电，有危险
 
